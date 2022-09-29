@@ -5,7 +5,7 @@ API en nodejs qui utilise le framework express js. L' API utilise une base de do
 
 # Installation
 
-1. git clone https://gitlab.com/Joffrey76/api_krug.git
+1. git clone https://github.com/joffreylhermitte/api_krug.git
 2. Créer un fichier .env avec les informations suivantes :
 	- SERVER_PORT 
 	- JWT_SECRET 
